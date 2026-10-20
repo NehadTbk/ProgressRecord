@@ -1,0 +1,10 @@
+# personal config and logs
+config/settings.json
+*.log
+# Arduino build output
+firmware/**/build/
+# Claude Code files
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
